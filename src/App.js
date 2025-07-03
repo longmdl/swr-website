@@ -5,7 +5,6 @@ import EventCover from './components/EventCover';
 import EventDetails from './components/EventDetails';
 import Agenda from './components/Agenda';
 import Registration from './components/Registration';
-import Location from './components/Location';
 
 function App() {
   const [dark, setDark] = useState(true);
